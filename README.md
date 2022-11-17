@@ -32,3 +32,7 @@ This is the Chabanel git. There is a lot of student in our LG, but here in our w
 **Beedle B: Christian Frances Advincula**
 
 **Businessman: Nicholas Belleza**
+
+---
+[`Send me feedback`](jamesasis58@gmail.com)
+[`Want some OPM, Click here`](https://open.spotify.com/playlist/6tHKbMXa4eYuZX3AwBNqbC?si=9799527770c24700)
