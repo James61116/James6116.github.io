@@ -34,5 +34,5 @@ This is the Chabanel git. There is a lot of student in our LG, but here in our w
 **Businessman: Nicholas Belleza**
 
 ---
-[`Follow me`]([jamesasis58@gmail.com](https://github.com/James61116))
+[`Follow me`](https://github.com/James61116)
 [`Want some OPM, Click here`](https://open.spotify.com/playlist/6tHKbMXa4eYuZX3AwBNqbC?si=9799527770c24700)
