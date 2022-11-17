@@ -30,3 +30,5 @@ This is the Chabanel git. There is a lot of student in our LG, but here in our w
 **Beedle A: Irzam Jenin Fucio**
 
 **Beedle B: Christian Frances Advincula**
+
+**Businessman: Nicholas Belleza
