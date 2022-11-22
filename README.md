@@ -6,7 +6,7 @@ Hello everyone who click here in this webpage!
 This is the Chabanel git. There is a lot of student in our LG, but here in our web we always do nothing. Well maybe in the future we will do something here.
 
 ---
-<iframe width="560" height="315" src="https://play2048.co/" title="2048" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="1000" height="750" src="https://play2048.co/" title="2048" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 ## Who is Chabanel
 ![image](https://user-images.githubusercontent.com/111236802/202055424-693214c6-57e6-427f-9701-351d74ca3cf9.png)
