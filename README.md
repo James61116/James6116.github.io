@@ -6,7 +6,7 @@ Hello everyone who click here in this webpage!
 This is the Chabanel git. There is a lot of student in our LG, but here in our web we always do nothing. Well maybe in the future we will do something here.
 
 ---
-[My favorite arcade if you want](https://play2048.co/)
+<iframe style="border-radius:12px" src="https://play2048.co/" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Who is Chabanel
 ![image](https://user-images.githubusercontent.com/111236802/202055424-693214c6-57e6-427f-9701-351d74ca3cf9.png)
